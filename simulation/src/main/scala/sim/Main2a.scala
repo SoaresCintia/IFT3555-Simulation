@@ -71,7 +71,7 @@ class EstimateurJ(normal2:NormalDist,normal3:NormalDist,mu1:Double, sigma1:Doubl
     val t = 2.0
     val kappa = 500000.0
 
-    val mu1 = 2900000.0
+    val mu1 = 29000000.0
     val sigma1 = 1450000.0
     val mu2 = 500.0
     val sigma2 = 100.0

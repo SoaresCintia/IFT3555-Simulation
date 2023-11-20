@@ -34,7 +34,7 @@ class Collision(k:Int,m:Int,maxCount:Int):
     c
 
   def simulateRuns(n:Int,stream:RandomStream,statC:Tally ):Unit=
-    if ()
+    
     statC.init()
 
     var j = 0
